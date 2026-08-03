@@ -1,15 +1,10 @@
 import './App.css';
-import Hero from "./sections/Hero";
-import About from "./sections/About";
-import Skills from "./sections/Skills";
-import Projects from "./sections/Projects";
-import Experience from "./sections/Experience";
-import Education from "./sections/Education";
-import Contact from "./sections/Contact";
+
 
 function App() {
   return (
     <div className="App">
+
       {/* Hero Section */}
       <section>
         <h1>Mohith R Gowda</h1>
